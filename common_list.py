@@ -2,6 +2,8 @@
 import random 
 a = random.sample(range(1,50),10)
 b = random.sample(range(1,50),14)
+print(a)
+print(b)
 common_list = []
 
 for x in a:
